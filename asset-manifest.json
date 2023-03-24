@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.690f560e.css",
+    "main.js": "/static/js/main.5e42de8d.js",
+    "static/media/product_trending_13.png": "/static/media/product_trending_13.b9444e945cc00c609d74.png",
+    "static/media/product_trending_12.png": "/static/media/product_trending_12.df1d70b92baa03687600.png",
+    "static/media/product_trending_11.png": "/static/media/product_trending_11.f980b7c58bccac28eae6.png",
+    "static/media/product_trending_14.png": "/static/media/product_trending_14.9dc64b0750d2d76e1eb9.png",
+    "static/media/product_trending_3.png": "/static/media/product_trending_3.f7ae7f80baa235f96636.png",
+    "static/media/product_trending_10.png": "/static/media/product_trending_10.f875f971133bd78cbddd.png",
+    "static/media/product_trending_1.png": "/static/media/product_trending_1.7b5ebf54d0426ad813da.png",
+    "static/media/product_trending_2.png": "/static/media/product_trending_2.8220b3b420e5a998d997.png",
+    "static/media/product_trending_6.png": "/static/media/product_trending_6.a2dfbe44a230e08a3ef4.png",
+    "static/media/product_trending_8.png": "/static/media/product_trending_8.5abbfbba9d4e51d02fb8.png",
+    "static/media/product_trending_5.png": "/static/media/product_trending_5.f86d4b181131399b45a8.png",
+    "static/media/product_trending_4.png": "/static/media/product_trending_4.7e5b5043865a055a4e33.png",
+    "static/media/product_trending_7.png": "/static/media/product_trending_7.e12ca1db6ce92101dddf.png",
+    "static/media/product_trending_9.png": "/static/media/product_trending_9.d6ad9c43f5cd38721819.png",
+    "static/media/product_trending_19.png": "/static/media/product_trending_19.4b5edafa570caa1616f5.png",
+    "static/media/product_trending_20.png": "/static/media/product_trending_20.1c0c11d2faad54c9acd3.png",
+    "static/media/product_trending_16.png": "/static/media/product_trending_16.d93db1a43067cd6e3ebc.png",
+    "static/media/product_trending_18.png": "/static/media/product_trending_18.545e0cbc6d3abe2837b4.png",
+    "static/media/product_trending_17.png": "/static/media/product_trending_17.50c7f49160d7745bd638.png",
+    "index.html": "/index.html",
+    "main.690f560e.css.map": "/static/css/main.690f560e.css.map",
+    "main.5e42de8d.js.map": "/static/js/main.5e42de8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690f560e.css",
+    "static/js/main.5e42de8d.js"
+  ]
+}
